@@ -1,0 +1,1927 @@
+.header.header {
+  left: 0;
+  top: 0;
+}
+.newLogo.newLogo {
+  background-image:/* webpackIgnore: true */ url('assets/newLogo2.jpg');
+}
+.arrow.arrow {
+  width: 19px;
+  height: 19px;
+}
+.icon {
+  width: 100%;
+  height: 100%;
+}
+.arrow2.arrow2 {
+  width: 19px;
+  height: 19px;
+}
+.icon2 {
+  width: 100%;
+  height: 100%;
+}
+.arrow3.arrow3 {
+  width: 19px;
+  height: 19px;
+}
+.icon3 {
+  width: 100%;
+  height: 100%;
+}
+.buttonM2.buttonM2 {
+  width: 142px;
+  height: 43px;
+  place-content: center;
+  align-items: center;
+  outline: solid 2px #fff;
+}
+.buttonM {
+  color: #fff;
+  font-size: 18px;
+  font-weight: bold;
+  font-family: Gothic A1, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.rectangle7011.rectangle7011 {
+  background-image:/* webpackIgnore: true */ url('assets/rectangle7011.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.studentRecruitmentConsultant {
+  color: #273b92;
+  font-size: 24px;
+  font-family: Century Gothic, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: 530px;
+  height: min-content;
+  flex-direction: column;
+}
+.deadline29July2023 {
+  color: #f37124;
+  font-size: 13px;
+  line-height: 140%;
+  font-family: Century Gothic, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: 530px;
+  height: min-content;
+  flex-direction: column;
+}
+.icon4 {
+  width: 100%;
+  height: 100%;
+}
+.londonOfficeUK {
+  color: #0d152a;
+  font-size: 18px;
+  line-height: 140%;
+  font-family: Century Gothic, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.icon5 {
+  width: 100%;
+  height: 100%;
+}
+.fullTime {
+  color: #0d152a;
+  font-size: 18px;
+  line-height: 140%;
+  font-family: Century Gothic, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.textBlock {
+  display: block;
+}
+.icon6 {
+  width: 100%;
+  height: 100%;
+}
+.undefined {
+  color: #0d152a;
+  font-size: 18px;
+  line-height: 140%;
+  font-family: Century Gothic, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.icon7 {
+  width: 100%;
+  height: 100%;
+}
+.share {
+  color: #0d152a;
+  font-size: 18px;
+  line-height: 140%;
+  font-family: Century Gothic, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.rectangle70112.rectangle70112 {
+  background-image:/* webpackIgnore: true */ url('assets/rectangle70112.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.deadline29July20232 {
+  color: #f37124;
+  font-size: 13px;
+  line-height: 140%;
+  font-family: Century Gothic, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: 530px;
+  height: min-content;
+  flex-direction: column;
+}
+.icon8 {
+  width: 100%;
+  height: 100%;
+}
+.providesIndependentConsultatio {
+  color: #101b36;
+  font-size: 18px;
+  line-height: 140%;
+  font-family: Century Gothic, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: 828px;
+  height: min-content;
+  flex-direction: column;
+}
+.rectangle70113.rectangle70113 {
+  background-image:/* webpackIgnore: true */ url('assets/rectangle70113.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.studentRecruitmentConsultant2 {
+  color: #273b92;
+  font-size: 24px;
+  font-family: Century Gothic, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: 530px;
+  height: min-content;
+  flex-direction: column;
+}
+.textBlock2 {
+  display: block;
+}
+.deadline29July20233 {
+  color: #f37124;
+  font-size: 13px;
+  line-height: 140%;
+  font-family: Century Gothic, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: 530px;
+  height: min-content;
+  flex-direction: column;
+}
+.icon9 {
+  width: 100%;
+  height: 100%;
+}
+.providesIndependentConsultatio2 {
+  color: #101b36;
+  font-size: 18px;
+  line-height: 140%;
+  font-family: Century Gothic, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: 828px;
+  height: min-content;
+  flex-direction: column;
+}
+.buttonM3 {
+  color: #fff;
+  font-size: 18px;
+  font-weight: bold;
+  font-family: Gothic A1, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.rectangle70114.rectangle70114 {
+  background-image:/* webpackIgnore: true */ url('assets/rectangle70115.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.studentRecruitmentConsultant3 {
+  color: #273b92;
+  font-size: 24px;
+  font-family: Century Gothic, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: 530px;
+  height: min-content;
+  flex-direction: column;
+}
+.textBlock3 {
+  display: block;
+}
+.deadline29July20234 {
+  color: #f37124;
+  font-size: 13px;
+  line-height: 140%;
+  font-family: Century Gothic, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: 530px;
+  height: min-content;
+  flex-direction: column;
+}
+.icon10 {
+  width: 100%;
+  height: 100%;
+}
+.londonOfficeUK2 {
+  color: #101b36;
+  font-size: 18px;
+  line-height: 140%;
+  font-family: Century Gothic, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.undefined2 {
+  color: #101b36;
+  font-size: 18px;
+  line-height: 140%;
+  font-family: Century Gothic, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.providesIndependentConsultatio3 {
+  color: #101b36;
+  font-size: 18px;
+  line-height: 140%;
+  font-family: Century Gothic, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: 828px;
+  height: min-content;
+  flex-direction: column;
+}
+.rectangle70115.rectangle70115 {
+  background-image:/* webpackIgnore: true */ url('assets/rectangle70116.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.studentRecruitmentConsultant4 {
+  color: #273b92;
+  font-size: 24px;
+  font-family: Century Gothic, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: 530px;
+  height: min-content;
+  flex-direction: column;
+}
+.textBlock4 {
+  display: block;
+}
+.deadline29July20235 {
+  color: #f37124;
+  font-size: 13px;
+  line-height: 140%;
+  font-family: Century Gothic, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: 530px;
+  height: min-content;
+  flex-direction: column;
+}
+.icon11 {
+  width: 100%;
+  height: 100%;
+}
+.londonOfficeUK3 {
+  color: #101b36;
+  font-size: 18px;
+  line-height: 140%;
+  font-family: Century Gothic, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.undefined3 {
+  color: #101b36;
+  font-size: 18px;
+  line-height: 140%;
+  font-family: Century Gothic, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.providesIndependentConsultatio4 {
+  color: #101b36;
+  font-size: 18px;
+  line-height: 140%;
+  font-family: Century Gothic, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: 828px;
+  height: min-content;
+  flex-direction: column;
+}
+.buttonM4 {
+  color: #243b79;
+  font-size: 18px;
+  font-weight: bold;
+  font-family: Gothic A1, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.footer.footer {
+  left: 0;
+  top: 5076px;
+}
+.blackWhite11.blackWhite11 {
+  background-image:/* webpackIgnore: true */ url('assets/blackWhite112.jpg');
+}
+.shareVector.shareVector {
+  background-image:/* webpackIgnore: true */ url('assets/shareVector.jpg');
+}
+.group1000001656.group1000001656 {
+  position: initial;
+}
+.icon12 {
+  width: 100%;
+  height: 100%;
+}
+.root {
+  position: relative;
+  width: 1440px;
+  height: 5763px;
+  align-items: flex-start;
+  background-color: #fff;
+  overflow: hidden;
+}
+.frame52 {
+  position: absolute;
+  left: 80px;
+  top: 261px;
+  width: 407px;
+  height: min-content;
+  flex: 1;
+  flex-direction: column;
+  gap: 6px;
+}
+.joinOurTeam {
+  color: #f37124;
+  font-size: 24px;
+  font-family: Century Gothic, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  height: min-content;
+  align-self: stretch;
+  flex-direction: column;
+}
+.unlockYourPotentialWithBHEUNI {
+  height: min-content;
+  align-self: stretch;
+  flex-direction: column;
+}
+.textBlock5 {
+  color: #273b92;
+  font-size: 60px;
+  font-weight: bold;
+  font-family: Century Gothic, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock6 {
+  margin-top: 0;
+}
+.labelWrapper {
+  font-size: 60px;
+  font-family: Century Gothic, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  flex-shrink: 1;
+}
+.label {
+  color: #f37124;
+  font-size: 60px;
+  font-weight: bold;
+  font-family: Century Gothic, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.illustrationHerobox {
+  position: absolute;
+  left: 594px;
+  top: 182px;
+  width: 766px;
+  height: 440px;
+}
+.icon13 {
+  width: 100%;
+  height: 100%;
+}
+.jobSearch {
+  position: absolute;
+  left: 50%;
+  top: 622px;
+  width: 1280px;
+  height: min-content;
+  flex-direction: column;
+  gap: 16px;
+  padding: 32px 90px;
+  background-color: #20356d;
+  box-shadow: 0px 8px 12px 0px #0000001a;
+  transform: translateX(-50%);
+}
+.frame50 {
+  height: min-content;
+  align-self: stretch;
+  place-content: space-between;
+  align-items: flex-end;
+}
+.jobOpening {
+  color: #fff;
+  font-size: 24px;
+  font-weight: bold;
+  font-family: Century Gothic, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+._32JobsAvailable {
+  color: #fff;
+  font-size: 18px;
+  line-height: 140%;
+  font-family: Century Gothic, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.frame51 {
+  height: min-content;
+  align-self: stretch;
+  flex-direction: column;
+  gap: 28px;
+}
+.search {
+  height: min-content;
+  align-self: stretch;
+  align-items: center;
+  gap: 10px;
+  padding: 8px;
+  border-radius: 58.3784px;
+  background-color: #fff;
+}
+.icon14 {
+  width: 27px;
+  height: 27px;
+  overflow: visible;
+}
+.icon15 {
+  width: 100%;
+  height: 100%;
+}
+.searchJobs {
+  color: #7180a8;
+  font-size: 16px;
+  line-height: 140%;
+  font-family: Century Gothic, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.frame48 {
+  height: min-content;
+  align-self: stretch;
+  align-items: center;
+  gap: 16px;
+}
+.search2 {
+  height: 43px;
+  flex: 1;
+  align-items: center;
+  gap: 10px;
+  padding: 8px 30px;
+  border-radius: 58.3784px;
+  background-color: #fff;
+}
+.location {
+  color: #7180a8;
+  font-size: 16px;
+  line-height: 140%;
+  font-family: Century Gothic, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  height: min-content;
+  flex: 1;
+  flex-direction: column;
+}
+.search3 {
+  height: 43px;
+  flex: 1;
+  align-items: center;
+  gap: 10px;
+  padding: 8px 30px;
+  border-radius: 58.3784px;
+  background-color: #fff;
+}
+.department {
+  color: #7180a8;
+  font-size: 16px;
+  line-height: 140%;
+  font-family: Century Gothic, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  height: min-content;
+  flex: 1;
+  flex-direction: column;
+}
+.search4 {
+  height: 43px;
+  flex: 1;
+  align-items: center;
+  gap: 10px;
+  padding: 8px 30px;
+  border-radius: 58.3784px;
+  background-color: #fff;
+}
+.workType {
+  color: #7180a8;
+  font-size: 16px;
+  line-height: 140%;
+  font-family: Century Gothic, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  height: min-content;
+  flex: 1;
+  flex-direction: column;
+}
+.jobOpening2 {
+  position: absolute;
+  left: 80px;
+  top: 845px;
+  width: 1280px;
+  height: min-content;
+  flex-direction: column;
+  place-content: center;
+  align-items: center;
+  gap: 44px;
+  padding: 60px 75px;
+  background-color: #f5f7f9;
+  overflow: hidden;
+}
+.frame64 {
+  height: min-content;
+  align-self: stretch;
+  flex-direction: column;
+  gap: 8px;
+}
+.selectYourPosition {
+  color: #f47025;
+  font-size: 24px;
+  font-family: Century Gothic, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  height: min-content;
+  align-self: stretch;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+}
+.areYouReadyToJoinOurTeam {
+  height: min-content;
+  align-self: stretch;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+}
+.textBlock7 {
+  color: #233b7a;
+  font-size: 40px;
+  line-height: 130%;
+  font-weight: bold;
+  font-family: Century Gothic, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock8 {
+  margin-top: 0;
+}
+.labelWrapper2 {
+  font-size: 40px;
+  font-family: Century Gothic, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  flex-shrink: 1;
+}
+.label2 {
+  color: #233b7a;
+  font-size: 40px;
+  line-height: 130%;
+  font-weight: bold;
+  font-family: Century Gothic, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.label3 {
+  color: #f47025;
+  font-size: 40px;
+  line-height: 130%;
+  font-weight: bold;
+  font-family: Century Gothic, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.label4 {
+  color: #233b7a;
+  font-size: 40px;
+  line-height: 130%;
+  font-weight: bold;
+  font-family: Century Gothic, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.jobPost {
+  width: min-content;
+  height: min-content;
+  flex-direction: column;
+  padding: 20px;
+  background-color: #fff;
+}
+.frame1000001721 {
+  width: min-content;
+  height: min-content;
+  align-self: flex-start;
+  align-items: center;
+  gap: 33px;
+}
+.rectangle70116 {
+  width: 228px;
+  height: 188px;
+  background-color: #d9d9d9;
+  background-image:/* webpackIgnore: true */ url('assets/rectangle70114.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.frame1000001720 {
+  width: min-content;
+  height: 188px;
+  flex-direction: column;
+  place-content: center;
+  align-items: flex-start;
+  gap: 12px;
+}
+.frame1000001719 {
+  width: 829px;
+  height: min-content;
+  place-content: space-between;
+}
+.frame1000001718 {
+  width: 530px;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 4px;
+}
+.studentRecruitmentConsultant5 {
+  color: #273b92;
+  font-size: 24px;
+  font-family: Century Gothic, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: 530px;
+  height: min-content;
+  flex-direction: column;
+}
+.deadline29July20236 {
+  color: #f37124;
+  font-size: 13px;
+  line-height: 140%;
+  font-family: Century Gothic, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: 530px;
+  height: min-content;
+  flex-direction: column;
+}
+.frame1000001713 {
+  width: 299px;
+  align-self: stretch;
+  place-content: flex-end;
+  align-items: flex-start;
+  gap: 16px;
+}
+.frame1000001709 {
+  width: min-content;
+  height: min-content;
+  align-items: center;
+  gap: 8px;
+}
+.simpleLineIconsLocationPin {
+  width: 16px;
+  height: 16px;
+}
+.icon16 {
+  width: 100%;
+  height: 100%;
+}
+.dhakaOfficeBD {
+  color: #101b36;
+  font-size: 18px;
+  line-height: 140%;
+  font-family: Century Gothic, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.frame1000001710 {
+  width: min-content;
+  height: min-content;
+  align-items: center;
+  gap: 8px;
+}
+.mdiClockOutline {
+  width: 16px;
+  height: 16px;
+}
+.icon17 {
+  width: 100%;
+  height: 100%;
+}
+.fullTime2 {
+  color: #101b36;
+  font-size: 18px;
+  line-height: 140%;
+  font-family: Century Gothic, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.frame1000001711 {
+  width: min-content;
+  height: min-content;
+  align-items: center;
+  gap: 8px;
+}
+.clarityEmployeeGroupLine {
+  width: 16px;
+  height: 16px;
+}
+.icon18 {
+  width: 100%;
+  height: 100%;
+}
+.undefined4 {
+  color: #101b36;
+  font-size: 18px;
+  line-height: 140%;
+  font-family: Century Gothic, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.frame1000001712 {
+  width: min-content;
+  height: min-content;
+  align-items: center;
+  gap: 8px;
+}
+.riShareFill {
+  width: 16px;
+  height: 16px;
+}
+.icon19 {
+  width: 100%;
+  height: 100%;
+}
+.share2 {
+  color: #101b36;
+  font-size: 18px;
+  line-height: 140%;
+  font-family: Century Gothic, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.providesIndependentConsultatio5 {
+  color: #101b36;
+  font-size: 18px;
+  line-height: 140%;
+  font-family: Century Gothic, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: 828px;
+  height: min-content;
+  flex-direction: column;
+}
+.frame10 {
+  width: min-content;
+  height: min-content;
+  place-content: center;
+  align-items: center;
+  gap: 27.2868px;
+}
+.selectPreviousSlide {
+  position: relative;
+  width: 36.3824px;
+  height: 36.3824px;
+  align-items: flex-start;
+  outline: solid 1.137px #f37124;
+  outline-offset: -1px;
+  border-radius: 54.5736px;
+}
+.svg {
+  z-index: 0;
+  position: absolute;
+  left: calc(50% - -0.0001px);
+  top: 9.0956px;
+  width: 18.1912px;
+  height: 18.1912px;
+  align-items: flex-start;
+  overflow: hidden;
+  transform: translateX(-50%);
+}
+.frame {
+  position: absolute;
+  left: calc(50% - 0px);
+  top: 0;
+  width: 18.1912px;
+  height: 18.1912px;
+  overflow: visible;
+  transform: translateX(-50%);
+}
+.icon20 {
+  width: 100%;
+  height: 100%;
+}
+.divScWee03o {
+  width: min-content;
+  height: min-content;
+  align-items: flex-start;
+  gap: 9.0956px;
+  padding: 13.6434px 0 2.2739px;
+}
+.slide2 {
+  position: relative;
+  width: 9.0956px;
+  height: 9.0956px;
+  outline: solid 1.137px #f37124;
+  outline-offset: -1px;
+  border-radius: 4.5478px;
+}
+.slide3 {
+  position: relative;
+  width: 9.0956px;
+  height: 9.0956px;
+  outline: solid 1.137px #f37124;
+  outline-offset: -1px;
+  border-radius: 4.5478px;
+}
+.slide1 {
+  position: relative;
+  width: 9.0956px;
+  height: 9.0956px;
+  outline: solid 1.137px #f37124;
+  outline-offset: -1px;
+  border-radius: 4.5478px;
+  background-color: #f37124;
+}
+.slide4 {
+  position: relative;
+  width: 9.0956px;
+  height: 9.0956px;
+  outline: solid 1.137px #f37124;
+  outline-offset: -1px;
+  border-radius: 4.5478px;
+}
+.selectNextSlide {
+  position: relative;
+  width: 36.3824px;
+  height: 36.3824px;
+  align-items: flex-start;
+  outline: solid 1.137px #f37124;
+  outline-offset: -1px;
+  border-radius: 54.5736px;
+}
+.svg2 {
+  z-index: 0;
+  position: absolute;
+  left: calc(50% - 0px);
+  top: 9.0956px;
+  width: 18.1912px;
+  height: 18.1912px;
+  align-items: flex-start;
+  overflow: hidden;
+  transform: translateX(-50%);
+}
+.frame2 {
+  position: absolute;
+  left: calc(50% - 0px);
+  top: 0;
+  width: 18.1912px;
+  height: 18.1912px;
+  overflow: visible;
+  transform: translateX(-50%);
+}
+.icon21 {
+  width: 100%;
+  height: 100%;
+}
+.data {
+  position: absolute;
+  left: 80px;
+  top: 2818px;
+  width: 1280px;
+  height: 172px;
+  place-content: space-between;
+  align-items: center;
+  padding: 40px 90px;
+  background-color: #233b7a;
+  box-shadow: 0px 4px 18px 0px #0000002e;
+}
+.frame56 {
+  width: min-content;
+  height: min-content;
+  flex-direction: column;
+  align-items: center;
+  gap: 19px;
+}
+._45 {
+  color: #fff;
+  font-size: 45px;
+  line-height: 182.6023%;
+  font-family: Century Gothic, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: capitalize;
+  width: 148.01px;
+  height: 40px;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.teamMember {
+  color: #fff;
+  font-size: 20px;
+  line-height: 182.6023%;
+  font-family: Century Gothic, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: capitalize;
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.frame55 {
+  width: min-content;
+  height: min-content;
+  flex-direction: column;
+  align-items: center;
+  gap: 19px;
+}
+._25 {
+  color: #fff;
+  font-size: 45px;
+  line-height: 182.6023%;
+  font-family: Century Gothic, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: capitalize;
+  width: 165.39px;
+  height: 40px;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.totalProducts {
+  color: #fff;
+  font-size: 20px;
+  line-height: 182.6023%;
+  font-family: Century Gothic, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: capitalize;
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.frame57 {
+  width: 195px;
+  height: min-content;
+  flex-direction: column;
+  align-items: center;
+  gap: 19px;
+}
+._8000 {
+  color: #fff;
+  font-size: 45px;
+  line-height: 182.6023%;
+  font-family: Century Gothic, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: capitalize;
+  height: 40px;
+  align-self: stretch;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.happyUsers {
+  color: #fff;
+  font-size: 20px;
+  line-height: 148.1%;
+  font-family: Century Gothic, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.frame58 {
+  width: min-content;
+  height: min-content;
+  flex-direction: column;
+  align-items: center;
+  gap: 19px;
+}
+._24k {
+  color: #fff;
+  font-size: 45px;
+  line-height: 182.6023%;
+  font-family: Century Gothic, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: capitalize;
+  width: 148.01px;
+  height: 40px;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.happyMoments {
+  color: #fff;
+  font-size: 20px;
+  line-height: 148.1%;
+  font-family: Century Gothic, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.testimonials {
+  position: absolute;
+  left: 80px;
+  top: 3080px;
+  width: 1280px;
+  height: min-content;
+  flex-direction: column;
+  place-content: center;
+  align-items: center;
+  gap: 36.3824px;
+}
+.frame66 {
+  height: min-content;
+  align-self: stretch;
+  flex-direction: column;
+  gap: 8px;
+}
+.testimonials2 {
+  color: #f37124;
+  font-size: 24px;
+  font-family: Century Gothic, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  height: min-content;
+  align-self: stretch;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+}
+.whatOurTeamMembersHaveToSay {
+  height: min-content;
+  align-self: stretch;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+}
+.textBlock9 {
+  color: #273b92;
+  font-size: 40px;
+  line-height: 130%;
+  font-weight: bold;
+  font-family: Century Gothic, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock10 {
+  margin-top: 0;
+}
+.labelWrapper3 {
+  font-size: 40px;
+  font-family: Century Gothic, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  flex-shrink: 1;
+}
+.label5 {
+  color: #f37124;
+  font-size: 40px;
+  line-height: 130%;
+  font-weight: bold;
+  font-family: Century Gothic, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.frame11 {
+  height: min-content;
+  align-self: stretch;
+  place-content: space-between;
+  align-items: center;
+}
+.frame3 {
+  width: 387.7003px;
+  height: 271px;
+  flex-direction: column;
+  align-items: center;
+  gap: 61.3953px;
+}
+.user1 {
+  opacity: 0.6;
+  width: 54.5736px;
+  height: 54.5736px;
+  border-radius: 27.2868px;
+  background-image:/* webpackIgnore: true */ url('assets/user1.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.frame22 {
+  height: min-content;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: center;
+  gap: 36.3824px;
+}
+.BeingPartOfBHEUNIHasBeenAnIncr {
+  color: #8995b7;
+  font-size: 16px;
+  line-height: 140%;
+  font-family: Century Gothic, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  height: min-content;
+  align-self: stretch;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+}
+.frame1 {
+  width: 245.5814px;
+  height: min-content;
+  flex-direction: column;
+  gap: 10.2326px;
+}
+.MdAbdurRahman {
+  color: #8995b7;
+  font-size: 18px;
+  line-height: 140%;
+  font-family: Century Gothic, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  height: min-content;
+  align-self: stretch;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+}
+.digitalMarketingManagerGlobal {
+  color: #8995b7;
+  font-size: 13px;
+  line-height: 140%;
+  font-style: italic;
+  font-family: Century Gothic, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  height: min-content;
+  align-self: stretch;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+}
+.frame6 {
+  width: 378.6047px;
+  height: 273px;
+  flex-direction: column;
+  align-items: center;
+  gap: 43.2041px;
+}
+.user2 {
+  width: 90.9561px;
+  height: 90.9561px;
+  border-radius: 45.478px;
+  background-image:/* webpackIgnore: true */ url('assets/user2.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.frame5 {
+  height: min-content;
+  align-self: stretch;
+  flex-direction: column;
+  gap: 36.3824px;
+}
+.ILoveBeingPartOfATeamThatTrans {
+  color: #101b36;
+  font-size: 18px;
+  line-height: 140%;
+  font-family: Century Gothic, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  height: min-content;
+  align-self: stretch;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+}
+.frame4 {
+  height: min-content;
+  align-self: stretch;
+  flex-direction: column;
+  gap: 10.2326px;
+}
+.ObidullahRimon {
+  color: #101b36;
+  font-size: 18px;
+  line-height: 140%;
+  font-family: Century Gothic, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  height: min-content;
+  align-self: stretch;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+}
+.hRAdminManagerBD {
+  color: #101b36;
+  font-size: 13px;
+  line-height: 140%;
+  font-style: italic;
+  font-family: Century Gothic, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  height: min-content;
+  align-self: stretch;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+}
+.frame9 {
+  width: 367.2351px;
+  height: 271px;
+  flex-direction: column;
+  align-items: center;
+  gap: 61.3953px;
+}
+.user3 {
+  opacity: 0.6;
+  width: 54.5736px;
+  height: 54.5736px;
+  border-radius: 27.2868px;
+  background-image:/* webpackIgnore: true */ url('assets/user3.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.frame8 {
+  height: min-content;
+  align-self: stretch;
+  flex-direction: column;
+  gap: 36.3824px;
+}
+.WorkingAtBHEUNIAllowsMeToSuppo {
+  color: #8995b7;
+  font-size: 16px;
+  line-height: 140%;
+  font-family: Century Gothic, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  height: min-content;
+  align-self: stretch;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+}
+.frame7 {
+  height: min-content;
+  align-self: stretch;
+  flex-direction: column;
+  gap: 10.2326px;
+}
+.RiazulIslam {
+  color: #8995b7;
+  font-size: 18px;
+  line-height: 140%;
+  font-family: Century Gothic, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  height: min-content;
+  align-self: stretch;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+}
+.srITManagerGlobal {
+  color: #8995b7;
+  font-size: 13px;
+  line-height: 140%;
+  font-style: italic;
+  font-family: Century Gothic, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  height: min-content;
+  align-self: stretch;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+}
+.frame102 {
+  width: min-content;
+  height: min-content;
+  align-items: center;
+  gap: 27.2868px;
+}
+.selectPreviousSlide2 {
+  position: relative;
+  width: 36.3824px;
+  height: 36.3824px;
+  align-items: flex-start;
+  outline: solid 1.137px #f37124;
+  outline-offset: -1px;
+  border-radius: 54.5736px;
+}
+.svg3 {
+  z-index: 0;
+  position: absolute;
+  left: calc(50% - -0.0001px);
+  top: 9.0956px;
+  width: 18.1912px;
+  height: 18.1912px;
+  align-items: flex-start;
+  overflow: hidden;
+  transform: translateX(-50%);
+}
+.frame12 {
+  position: absolute;
+  left: calc(50% - 0px);
+  top: 0;
+  width: 18.1912px;
+  height: 18.1912px;
+  overflow: visible;
+  transform: translateX(-50%);
+}
+.icon22 {
+  width: 100%;
+  height: 100%;
+}
+.divScWee03o2 {
+  width: min-content;
+  height: min-content;
+  align-items: flex-start;
+  gap: 9.0956px;
+  padding: 13.6434px 0 2.2739px;
+}
+.slide12 {
+  position: relative;
+  width: 9.0956px;
+  height: 9.0956px;
+  outline: solid 1.137px #f37124;
+  outline-offset: -1px;
+  border-radius: 4.5478px;
+  background-color: #f37124;
+}
+.slide22 {
+  position: relative;
+  width: 9.0956px;
+  height: 9.0956px;
+  outline: solid 1.137px #f37124;
+  outline-offset: -1px;
+  border-radius: 4.5478px;
+}
+.slide32 {
+  position: relative;
+  width: 9.0956px;
+  height: 9.0956px;
+  outline: solid 1.137px #f37124;
+  outline-offset: -1px;
+  border-radius: 4.5478px;
+}
+.slide42 {
+  position: relative;
+  width: 9.0956px;
+  height: 9.0956px;
+  outline: solid 1.137px #f37124;
+  outline-offset: -1px;
+  border-radius: 4.5478px;
+}
+.selectNextSlide2 {
+  position: relative;
+  width: 36.3824px;
+  height: 36.3824px;
+  align-items: flex-start;
+  outline: solid 1.137px #f37124;
+  outline-offset: -1px;
+  border-radius: 54.5736px;
+}
+.svg4 {
+  z-index: 0;
+  position: absolute;
+  left: calc(50% - 0px);
+  top: 9.0956px;
+  width: 18.1912px;
+  height: 18.1912px;
+  align-items: flex-start;
+  overflow: hidden;
+  transform: translateX(-50%);
+}
+.frame13 {
+  position: absolute;
+  left: calc(50% - 0px);
+  top: 0;
+  width: 18.1912px;
+  height: 18.1912px;
+  overflow: visible;
+  transform: translateX(-50%);
+}
+.icon23 {
+  width: 100%;
+  height: 100%;
+}
+.ourCulture {
+  position: absolute;
+  left: 80px;
+  top: 3693px;
+  width: 1280px;
+  height: min-content;
+  align-items: center;
+  gap: 105px;
+}
+.plant {
+  width: 625px;
+  height: 464px;
+}
+.icon24 {
+  width: 100%;
+  height: 100%;
+}
+.frame67 {
+  height: min-content;
+  flex: 1;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 24px;
+}
+.frame662 {
+  height: min-content;
+  align-self: stretch;
+  flex-direction: column;
+  place-content: center;
+  gap: 8px;
+}
+.ourCulture2 {
+  color: #f37124;
+  font-size: 24px;
+  font-family: Century Gothic, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  height: min-content;
+  align-self: stretch;
+  flex-direction: column;
+}
+.aCultureOfContinuousLearningAn {
+  height: min-content;
+  align-self: stretch;
+  flex-direction: column;
+}
+.textBlock11 {
+  color: #273b92;
+  font-size: 40px;
+  line-height: 130%;
+  font-weight: bold;
+  font-family: Century Gothic, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock12 {
+  margin-top: 0;
+}
+.labelWrapper4 {
+  font-size: 40px;
+  font-family: Century Gothic, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  flex-shrink: 1;
+}
+.label6 {
+  color: #f37124;
+  font-size: 40px;
+  line-height: 130%;
+  font-weight: bold;
+  font-family: Century Gothic, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.atBHEUNIWeFosterASupportiveAnd {
+  color: #101b36;
+  font-size: 20px;
+  font-family: Century Gothic, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  height: min-content;
+  align-self: stretch;
+  text-align: justify;
+  flex-direction: column;
+}
+.benefits {
+  position: absolute;
+  left: 80px;
+  top: 4247px;
+  width: 1280px;
+  height: min-content;
+  flex-direction: column;
+  align-items: center;
+  gap: 48px;
+}
+.frame663 {
+  width: 1320px;
+  height: min-content;
+  flex-direction: column;
+  gap: 8px;
+}
+.benefitsAndPerks {
+  color: #f37124;
+  font-size: 24px;
+  font-family: Century Gothic, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  height: min-content;
+  align-self: stretch;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+}
+.benefitsOfWorkingWithBHEUNI {
+  height: min-content;
+  align-self: stretch;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+}
+.textBlock13 {
+  color: #273b92;
+  font-size: 40px;
+  line-height: 130%;
+  font-weight: bold;
+  font-family: Century Gothic, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock14 {
+  margin-top: 0;
+}
+.labelWrapper5 {
+  font-size: 40px;
+  font-family: Century Gothic, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  flex-shrink: 1;
+}
+.label7 {
+  color: #f37124;
+  font-size: 40px;
+  line-height: 130%;
+  font-weight: bold;
+  font-family: Century Gothic, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.frame75 {
+  width: min-content;
+  height: min-content;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 40px;
+}
+.frame73 {
+  width: min-content;
+  height: min-content;
+  align-items: flex-start;
+  gap: 70px;
+}
+.frame71 {
+  width: min-content;
+  height: min-content;
+  flex-direction: column;
+  place-content: center;
+  align-items: center;
+  gap: 15px;
+}
+.benifit1 {
+  width: 61.7572px;
+  height: 61.7572px;
+  background-image:/* webpackIgnore: true */ url('assets/benifit1.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.frame70 {
+  width: min-content;
+  height: min-content;
+  flex-direction: column;
+  place-content: center;
+  align-items: center;
+  gap: 7px;
+}
+.largeBeautifulOffice {
+  color: #273b92;
+  font-size: 24px;
+  font-family: Century Gothic, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.loremIpsumDolorSitAmetConsecte {
+  color: #101b36;
+  font-size: 16px;
+  line-height: 140%;
+  font-family: Century Gothic, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: 534px;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+}
+.frame72 {
+  width: min-content;
+  height: min-content;
+  flex-direction: column;
+  place-content: center;
+  align-items: center;
+  gap: 15px;
+}
+.benifit2 {
+  width: 61.7572px;
+  height: 61.7572px;
+  background-image:/* webpackIgnore: true */ url('assets/benifit2.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.frame702 {
+  width: min-content;
+  height: min-content;
+  flex-direction: column;
+  align-items: center;
+  gap: 7px;
+}
+.greatCoWorkers {
+  color: #273b92;
+  font-size: 24px;
+  font-family: Century Gothic, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: 226px;
+  height: min-content;
+  flex-direction: column;
+}
+.loremIpsumDolorSitAmetConsecte2 {
+  color: #101b36;
+  font-size: 16px;
+  line-height: 140%;
+  font-family: Century Gothic, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: 534px;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+}
+.frame74 {
+  width: min-content;
+  height: min-content;
+  place-content: center;
+  align-items: center;
+  gap: 70px;
+}
+.frame712 {
+  width: min-content;
+  height: min-content;
+  flex-direction: column;
+  place-content: center;
+  align-items: center;
+  gap: 15px;
+}
+.benifit3 {
+  width: 61.7572px;
+  height: 61.7572px;
+  background-image:/* webpackIgnore: true */ url('assets/benifit3.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.frame703 {
+  width: min-content;
+  height: min-content;
+  flex-direction: column;
+  place-content: center;
+  align-items: center;
+  gap: 7px;
+}
+.easyLocation {
+  color: #273b92;
+  font-size: 24px;
+  font-family: Century Gothic, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.loremIpsumDolorSitAmetConsecte3 {
+  color: #101b36;
+  font-size: 16px;
+  line-height: 140%;
+  font-family: Century Gothic, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: 534px;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+}
+.frame722 {
+  width: min-content;
+  height: min-content;
+  flex-direction: column;
+  place-content: center;
+  align-items: center;
+  gap: 15px;
+}
+.benifit4 {
+  width: 61.7572px;
+  height: 61.7572px;
+  background-image:/* webpackIgnore: true */ url('assets/benifit4.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.frame704 {
+  width: min-content;
+  height: min-content;
+  flex-direction: column;
+  place-content: center;
+  align-items: center;
+  gap: 7px;
+}
+.educationOpportunities {
+  color: #273b92;
+  font-size: 24px;
+  font-family: Century Gothic, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.loremIpsumDolorSitAmetConsecte4 {
+  color: #101b36;
+  font-size: 16px;
+  line-height: 140%;
+  font-family: Century Gothic, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: 534px;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+}
+.frame752 {
+  width: min-content;
+  height: min-content;
+  align-items: flex-start;
+  gap: 70px;
+}
+.frame713 {
+  width: min-content;
+  height: min-content;
+  flex-direction: column;
+  place-content: center;
+  align-items: center;
+  gap: 15px;
+}
+.benifit5 {
+  width: 61.7572px;
+  height: 61.7572px;
+  background-image:/* webpackIgnore: true */ url('assets/benifit5.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.frame705 {
+  width: min-content;
+  height: min-content;
+  flex-direction: column;
+  place-content: center;
+  align-items: center;
+  gap: 7px;
+}
+.freeLunchSncks {
+  color: #273b92;
+  font-size: 24px;
+  font-family: Century Gothic, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.loremIpsumDolorSitAmetConsecte5 {
+  color: #101b36;
+  font-size: 16px;
+  line-height: 140%;
+  font-family: Century Gothic, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: 534px;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+}
+.frame723 {
+  width: min-content;
+  height: min-content;
+  flex-direction: column;
+  place-content: center;
+  align-items: center;
+  gap: 15px;
+}
+.benifit6 {
+  width: 61.7572px;
+  height: 61.7572px;
+  background-image:/* webpackIgnore: true */ url('assets/benifit6.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.frame706 {
+  width: min-content;
+  height: min-content;
+  flex-direction: column;
+  place-content: center;
+  align-items: center;
+  gap: 7px;
+}
+.performanceAward {
+  color: #273b92;
+  font-size: 24px;
+  font-family: Century Gothic, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.loremIpsumDolorSitAmetConsecte6 {
+  color: #101b36;
+  font-size: 16px;
+  line-height: 140%;
+  font-family: Century Gothic, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: 534px;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+}

@@ -1,0 +1,219 @@
+.iD1002534 {
+  color: #243b79;
+  font-size: 12px;
+  line-height: 140%;
+  font-family: Century Gothic, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.icon {
+  width: 100%;
+  height: 100%;
+}
+.root {
+  position: absolute;
+  left: 41px;
+  top: 57px;
+  width: min-content;
+  height: min-content;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.headerTop {
+  width: 1440px;
+  height: 40px;
+  place-content: flex-end;
+  align-items: center;
+  gap: 22px;
+  padding: 0 80px 0 0;
+  background-color: #273b92;
+}
+.contacts {
+  width: min-content;
+  height: min-content;
+  align-items: flex-end;
+  gap: 18px;
+}
+.infoBoosteducationserviceCoUk {
+  color: #fff;
+  font-size: 13px;
+  line-height: 140%;
+  font-weight: bold;
+  font-family: Century Gothic, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+._880140793812Dhaka {
+  color: #fff;
+  font-size: 13px;
+  line-height: 140%;
+  font-weight: bold;
+  font-family: Century Gothic, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+._442033189380UK {
+  color: #fff;
+  font-size: 13px;
+  line-height: 140%;
+  font-weight: bold;
+  font-family: Century Gothic, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.unnamed {
+  color: #fff;
+  font-size: 13px;
+  line-height: 140%;
+  font-family: DM Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.social {
+  width: 131.6113px;
+  height: 16px;
+  overflow: visible;
+}
+.icon2 {
+  width: 100%;
+  height: 100%;
+}
+.navBar {
+  width: 1440px;
+  height: min-content;
+  place-content: space-between;
+  align-items: center;
+  padding: 21px 80px 0;
+  background-color: #fff;
+}
+.frame58 {
+  width: min-content;
+  height: min-content;
+  align-items: center;
+  gap: 50px;
+}
+.logo {
+  width: min-content;
+  height: min-content;
+  flex-direction: column;
+  padding: 0 10px 28px 0;
+}
+.newLogo {
+  width: 214px;
+  height: 84px;
+  background-image:/* webpackIgnore: true */ url('assets/newLogo.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.navMenu {
+  width: min-content;
+  height: min-content;
+  align-items: center;
+  gap: 57px;
+}
+.frame23 {
+  width: min-content;
+  height: min-content;
+  align-items: flex-start;
+  gap: 16px;
+}
+.home {
+  color: #273b92;
+  font-size: 18px;
+  font-weight: bold;
+  font-family: Gothic A1, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.weAre {
+  color: #273b92;
+  font-size: 18px;
+  font-weight: bold;
+  font-family: Gothic A1, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.studyAbroad {
+  color: #273b92;
+  font-size: 18px;
+  font-weight: bold;
+  font-family: Gothic A1, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.ourService {
+  color: #273b92;
+  font-size: 18px;
+  font-weight: bold;
+  font-family: Gothic A1, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.newsEvent {
+  color: #273b92;
+  font-size: 18px;
+  font-weight: bold;
+  font-family: Gothic A1, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.contact {
+  color: #273b92;
+  font-size: 18px;
+  font-weight: bold;
+  font-family: Gothic A1, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.actionBtnUser {
+  width: min-content;
+  height: min-content;
+  place-content: center;
+  align-items: center;
+  gap: 19px;
+}
+.loginSearch {
+  width: min-content;
+  height: min-content;
+  place-content: center;
+  align-items: center;
+  gap: 35px;
+  padding: 12px 22px;
+  border-radius: 30px;
+  background-color: #f5f7f9;
+  overflow: hidden;
+}

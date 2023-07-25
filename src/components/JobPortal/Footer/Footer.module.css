@@ -1,0 +1,735 @@
+.root {
+  position: absolute;
+  left: 2123px;
+  top: 1597px;
+  width: 1440px;
+  height: 687px;
+  align-items: flex-start;
+  overflow: hidden;
+}
+.frame1000001692 {
+  position: absolute;
+  left: -314px;
+  top: 0;
+  width: 2082px;
+  height: 686px;
+  align-items: flex-start;
+}
+.blackWhite11 {
+  opacity: 0.25;
+  position: absolute;
+  left: 15.0817%;
+  right: 15.7541%;
+  top: 12.3907%;
+  bottom: -13.1195%;
+  background-image:/* webpackIgnore: true */ url('assets/blackWhite11.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.share {
+  position: absolute;
+  left: calc(50% - 7px);
+  top: 0;
+  width: 1004px;
+  height: 169px;
+  place-content: center;
+  align-items: center;
+  gap: 66px;
+  padding: 10px 159px;
+  border-radius: 12px;
+  background-color: #f37124;
+  transform: translateX(-50%);
+}
+.frame161 {
+  width: min-content;
+  height: min-content;
+  align-items: center;
+  gap: 44px;
+}
+.aaa1 {
+  width: 98px;
+  height: 123px;
+  background-image:/* webpackIgnore: true */ url('assets/aaa1.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.frame160 {
+  width: min-content;
+  height: min-content;
+  flex-direction: column;
+}
+.shareWithFriendFamily {
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.textBlock {
+  color: #fff;
+  font-size: 40px;
+  line-height: 130%;
+  font-weight: bold;
+  font-family: Century Gothic, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock2 {
+  margin-top: 0;
+  color: #fff;
+  font-size: 40px;
+  line-height: 130%;
+  font-weight: bold;
+  font-family: Century Gothic, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.icons {
+  width: min-content;
+  height: min-content;
+  flex-direction: column;
+}
+.group1000001656 {
+  position: relative;
+  width: 200px;
+  height: 35px;
+}
+.rectangle2 {
+  position: absolute;
+  left: 82.5%;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  outline: solid 1.5px #fff;
+  outline-offset: -1px;
+  border-radius: 5px;
+}
+.layer_1 {
+  position: absolute;
+  left: 87.5%;
+  right: 4.5015%;
+  top: 25.7143%;
+  bottom: 28.5714%;
+}
+.icon {
+  width: 100%;
+  height: 100%;
+}
+.group2 {
+  position: absolute;
+  left: 55%;
+  right: 27.5%;
+  top: 0;
+  bottom: 0;
+  width: 35px;
+  height: 35px;
+  overflow: visible;
+}
+.icon2 {
+  width: 100%;
+  height: 100%;
+}
+.group3 {
+  position: absolute;
+  left: 27.5%;
+  right: 55%;
+  top: 0;
+  bottom: 0;
+  width: 35px;
+  height: 35px;
+  overflow: visible;
+}
+.icon3 {
+  width: 100%;
+  height: 100%;
+}
+.group4 {
+  position: absolute;
+  left: 0;
+  right: 82.5%;
+  top: 0;
+  bottom: 0;
+  width: 35px;
+  height: 35px;
+  overflow: visible;
+}
+.icon4 {
+  width: 100%;
+  height: 100%;
+}
+.contactUs {
+  color: #273b92;
+  font-size: 30px;
+  font-weight: bold;
+  font-family: Century Gothic, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 19.5485%;
+  right: 72.4784%;
+  top: 33.3819%;
+  bottom: 60.9329%;
+  flex-direction: column;
+}
+.about {
+  color: #273b92;
+  font-size: 30px;
+  font-weight: bold;
+  font-family: Century Gothic, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 41.5466%;
+  right: 53.9866%;
+  top: 33.3819%;
+  bottom: 60.9329%;
+  flex-direction: column;
+}
+.links {
+  color: #273b92;
+  font-size: 30px;
+  font-weight: bold;
+  font-family: Century Gothic, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 54.5629%;
+  right: 41.8828%;
+  top: 33.3819%;
+  bottom: 60.9329%;
+  flex-direction: column;
+}
+.mobileApp {
+  color: #273b92;
+  font-size: 30px;
+  font-weight: bold;
+  font-family: Century Gothic, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 68.9721%;
+  right: 22.5264%;
+  top: 33.3819%;
+  bottom: 60.9329%;
+  flex-direction: column;
+}
+.address {
+  color: #0d152a;
+  font-size: 18px;
+  font-weight: bold;
+  font-family: Century Gothic, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 20.8934%;
+  right: 75.3122%;
+  top: 42.4198%;
+  bottom: 54.2274%;
+  flex-direction: column;
+}
+.weAreOurPartnerOurServiceBlogC {
+  position: absolute;
+  left: 42.171%;
+  right: 52.7858%;
+  top: 43.1487%;
+  bottom: 36.2974%;
+  flex-direction: column;
+}
+.textBlock3 {
+  color: #0d152a;
+  font-size: 18px;
+  line-height: 85%;
+  font-weight: bold;
+  font-family: Century Gothic, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock4 {
+  margin-top: 0;
+  color: #0d152a;
+  font-size: 18px;
+  line-height: 85%;
+  font-weight: bold;
+  font-family: Century Gothic, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock5 {
+  margin-top: 0;
+  color: #0d152a;
+  font-size: 18px;
+  line-height: 85%;
+  font-weight: bold;
+  font-family: Century Gothic, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock6 {
+  margin-top: 0;
+  color: #0d152a;
+  font-size: 18px;
+  line-height: 85%;
+  font-weight: bold;
+  font-family: Century Gothic, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock7 {
+  margin-top: 0;
+  color: #0d152a;
+  font-size: 18px;
+  line-height: 85%;
+  font-weight: bold;
+  font-family: Century Gothic, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock8 {
+  margin-top: 0;
+  color: #0d152a;
+  font-size: 18px;
+  line-height: 85%;
+  font-weight: bold;
+  font-family: Century Gothic, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock9 {
+  margin-top: 0;
+  color: #0d152a;
+  font-size: 18px;
+  line-height: 85%;
+  font-weight: bold;
+  font-family: Century Gothic, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock10 {
+  margin-top: 0;
+  color: #0d152a;
+  font-size: 18px;
+  line-height: 85%;
+  font-weight: bold;
+  font-family: Century Gothic, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock11 {
+  margin-top: 0;
+  color: #0d152a;
+  font-size: 18px;
+  line-height: 85%;
+  font-weight: bold;
+  font-family: Century Gothic, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.accommodationBecomeAnAgentBeco {
+  position: absolute;
+  left: 55.3794%;
+  right: 36.6955%;
+  top: 43.1487%;
+  bottom: 40.8163%;
+  flex-direction: column;
+}
+.textBlock12 {
+  color: #0d152a;
+  font-size: 18px;
+  line-height: 85%;
+  font-weight: bold;
+  font-family: Century Gothic, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock13 {
+  margin-top: 0;
+  color: #0d152a;
+  font-size: 18px;
+  line-height: 85%;
+  font-weight: bold;
+  font-family: Century Gothic, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock14 {
+  margin-top: 0;
+  color: #0d152a;
+  font-size: 18px;
+  line-height: 85%;
+  font-weight: bold;
+  font-family: Century Gothic, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock15 {
+  margin-top: 0;
+  color: #0d152a;
+  font-size: 18px;
+  line-height: 85%;
+  font-weight: bold;
+  font-family: Century Gothic, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock16 {
+  margin-top: 0;
+  color: #0d152a;
+  font-size: 18px;
+  line-height: 85%;
+  font-weight: bold;
+  font-family: Century Gothic, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock17 {
+  margin-top: 0;
+  color: #0d152a;
+  font-size: 18px;
+  line-height: 85%;
+  font-weight: bold;
+  font-family: Century Gothic, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock18 {
+  margin-top: 0;
+  color: #0d152a;
+  font-size: 18px;
+  line-height: 85%;
+  font-weight: bold;
+  font-family: Century Gothic, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.phone {
+  color: #0d152a;
+  font-size: 18px;
+  font-weight: bold;
+  font-family: Century Gothic, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 20.8934%;
+  right: 76.0807%;
+  top: 57.5802%;
+  bottom: 39.0671%;
+  flex-direction: column;
+}
+.email {
+  color: #0d152a;
+  font-size: 18px;
+  font-weight: bold;
+  font-family: Century Gothic, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 20.8934%;
+  right: 76.513%;
+  top: 65.8892%;
+  bottom: 30.758%;
+  flex-direction: column;
+}
+._11BeaufortCourtAdmiralsWayCana {
+  position: absolute;
+  left: 20.8934%;
+  right: 61.4313%;
+  top: 46.6472%;
+  bottom: 42.4198%;
+  flex-direction: column;
+}
+.textBlock19 {
+  color: #0d152a;
+  font-size: 18px;
+  font-family: Century Gothic, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock20 {
+  margin-top: 0;
+  color: #0d152a;
+  font-size: 18px;
+  font-family: Century Gothic, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock21 {
+  margin-top: 0;
+  color: #0d152a;
+  font-size: 18px;
+  font-family: Century Gothic, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+._442033189380 {
+  color: #0d152a;
+  font-size: 18px;
+  font-family: Century Gothic, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 20.8934%;
+  right: 69.1162%;
+  top: 60.9329%;
+  bottom: 35.5685%;
+  flex-direction: column;
+}
+.infoBheuniIo {
+  color: #0d152a;
+  font-size: 18px;
+  font-family: Century Gothic, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 20.8934%;
+  right: 63.6888%;
+  top: 69.242%;
+  bottom: 27.2595%;
+  flex-direction: column;
+}
+.rectangle44 {
+  position: absolute;
+  left: 41.3545%;
+  right: 58.3093%;
+  top: 44.6064%;
+  bottom: 55.102%;
+  background-color: #f37124;
+}
+.rectangle49 {
+  position: absolute;
+  left: 54.5629%;
+  right: 45.0528%;
+  top: 44.6064%;
+  bottom: 55.102%;
+  background-color: #f37124;
+}
+.rectangle45 {
+  position: absolute;
+  left: 41.3545%;
+  right: 58.3093%;
+  top: 48.9796%;
+  bottom: 50.7289%;
+  background-color: #f37124;
+}
+.rectangle50 {
+  position: absolute;
+  left: 54.5629%;
+  right: 45.0528%;
+  top: 48.8338%;
+  bottom: 50.8746%;
+  background-color: #f37124;
+}
+.rectangle46 {
+  position: absolute;
+  left: 41.3545%;
+  right: 58.3093%;
+  top: 53.6443%;
+  bottom: 46.0641%;
+  background-color: #f37124;
+}
+.rectangle51 {
+  position: absolute;
+  left: 54.5629%;
+  right: 45.0528%;
+  top: 53.0612%;
+  bottom: 46.6472%;
+  background-color: #f37124;
+}
+.rectangle47 {
+  position: absolute;
+  left: 41.3545%;
+  right: 58.3093%;
+  top: 57.5802%;
+  bottom: 42.1283%;
+  background-color: #f37124;
+}
+.rectangle52 {
+  position: absolute;
+  left: 54.5629%;
+  right: 45.0528%;
+  top: 57.5802%;
+  bottom: 42.1283%;
+  background-color: #f37124;
+}
+.rectangle48 {
+  position: absolute;
+  left: 41.3545%;
+  right: 58.3093%;
+  top: 61.9534%;
+  bottom: 37.7551%;
+  background-color: #f37124;
+}
+.rectangle53 {
+  position: absolute;
+  left: 68.8416%;
+  right: 21.1335%;
+  top: 42.7484%;
+  bottom: 47.0591%;
+  border-radius: 10px;
+  background-color: #0d152a;
+}
+.IconBrandGooglePlay {
+  position: absolute;
+  left: 1452.4402px;
+  top: 308.5527px;
+  width: 40.7236px;
+  height: 40.7236px;
+  overflow: visible;
+}
+.icon5 {
+  width: 100%;
+  height: 100%;
+}
+.downloadFrom {
+  color: #fff;
+  font-size: 12px;
+  font-family: Century Gothic, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 72.0496%;
+  right: 22.9881%;
+  top: 45.0304%;
+  bottom: 52.8399%;
+  flex-direction: column;
+}
+.googlePlay {
+  color: #fff;
+  font-size: 20px;
+  font-weight: bold;
+  font-family: Century Gothic, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 72.0496%;
+  right: 21.5345%;
+  top: 47.008%;
+  bottom: 49.341%;
+  flex-direction: column;
+}
+.rectangle54 {
+  position: absolute;
+  left: 68.8416%;
+  right: 21.1335%;
+  top: 53.8536%;
+  bottom: 35.9539%;
+  border-radius: 10px;
+  background-color: #0d152a;
+}
+.downloadOnThe {
+  color: #fff;
+  font-size: 12px;
+  font-family: Century Gothic, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 72.0496%;
+  right: 21.9355%;
+  top: 56.1355%;
+  bottom: 41.7347%;
+  flex-direction: column;
+}
+.appStore {
+  color: #fff;
+  font-size: 20px;
+  font-weight: bold;
+  font-family: Century Gothic, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 72.0496%;
+  right: 21.5345%;
+  top: 58.1132%;
+  bottom: 38.2358%;
+  flex-direction: column;
+}
+.IconApple {
+  position: absolute;
+  left: 1452.067px;
+  top: 379.9229px;
+  width: 38.6127px;
+  height: 46.1357px;
+  overflow: visible;
+}
+.icon6 {
+  width: 100%;
+  height: 100%;
+}
+.vector {
+  position: absolute;
+  left: 19.2603%;
+  right: 79.7793%;
+  top: 60.2041%;
+  bottom: 36.8805%;
+  overflow: visible;
+}
+.icon7 {
+  width: 100%;
+  height: 100%;
+}
+.vector2 {
+  position: absolute;
+  left: 19.2603%;
+  right: 79.7791%;
+  top: 68.5131%;
+  bottom: 29.4327%;
+  overflow: visible;
+}
+.icon8 {
+  width: 100%;
+  height: 100%;
+}
+.IconLocation {
+  position: absolute;
+  left: 400px;
+  top: 338px;
+  width: 22px;
+  height: 25px;
+  overflow: visible;
+}
+.icon9 {
+  width: 100%;
+  height: 100%;
+}
+.vector5 {
+  position: absolute;
+  left: 0.1931%;
+  right: 5.5914%;
+  top: 74.8203%;
+  bottom: -8.5927%;
+  overflow: visible;
+}
+.icon10 {
+  width: 100%;
+  height: 100%;
+}
+.vector4 {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 49.8542%;
+  bottom: -11.8076%;
+  overflow: visible;
+}
+.icon11 {
+  width: 100%;
+  height: 100%;
+}
+.Copyright2021AllRightsReserved {
+  position: absolute;
+  left: 54.1787%;
+  right: 21.1335%;
+  top: 90.0875%;
+  bottom: 6.7055%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.labelWrapper {
+  font-size: 16px;
+  font-family: Century Gothic, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  flex-shrink: 1;
+}
+.label {
+  color: #fff;
+  font-size: 16px;
+  line-height: 140%;
+  font-family: Century Gothic, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.label2 {
+  color: #273b92;
+  font-size: 16px;
+  line-height: 140%;
+  font-family: Century Gothic, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.label3 {
+  color: #f37124;
+  font-size: 16px;
+  line-height: 140%;
+  font-family: Century Gothic, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.line61 {
+  position: absolute;
+  left: 737px;
+  top: 629.5px;
+  width: 372px;
+  max-width: 100%;
+  height: 1px;
+  max-height: 100%;
+  overflow: visible;
+}
+.icon12 {
+  width: 100%;
+  height: 100%;
+}
